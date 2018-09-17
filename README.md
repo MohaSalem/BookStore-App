@@ -19,4 +19,4 @@ Connects and creates database table. Inserts, Views, Updates, Searches, Deletes 
 
 -- books.db -- 
 
-An SQLite3 database file which stores and retrieves the user entries from the application.
+An SQLite3 database file which stores and retrieves the user entries in the application.
